@@ -1,2 +1,6 @@
-# Pool Table OpenGL Game
- This is a coursework piece for the second semester of second year Games Technology
+# 10371572-PhysGraph-Assisgnment
+FOR IAN AND VICTORIA
+
+hi this is Katherine Neul Pool game 
+student ID:
+10371572

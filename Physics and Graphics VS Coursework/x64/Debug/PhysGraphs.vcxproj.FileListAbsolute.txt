@@ -1,0 +1,3 @@
+D:\Education\University Y2\Graphics and Physics VS\1037152-PhysGraph-Assisngment\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe
+D:\University\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe

@@ -1,0 +1,49 @@
+﻿  AABBCollider.cpp
+  BillBoards.cpp
+  BlackBall.cpp
+  BroadPhaseGrid.cpp
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\BroadPhaseGrid.cpp(10,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\BroadPhaseGrid.cpp(11,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\BroadPhaseGrid.cpp(12,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Camera.cpp
+  Colliders.cpp
+  CollisionData.cpp
+  Cue.cpp
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\Cue.cpp(28,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Field.cpp
+  ForceGenerator.cpp
+  GameEngine.cpp
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\GameEngine.cpp(17,71): warning C4091: 'static ': ignored on left of 'object' when no variable is declared
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\GameEngine.cpp(18,134): warning C4091: 'static ': ignored on left of 'buffer' when no variable is declared
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\GameEngine.cpp(127,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\GameEngine.cpp(782,3): warning C4305: '-=': truncation from 'double' to 'float'
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\GameEngine.cpp(782,3): warning C4305: '+=': truncation from 'double' to 'float'
+  GameObject.cpp
+  Main.cpp
+  Model.cpp
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\Model.cpp(30,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Particle.cpp
+  PlaneCollider.cpp
+  Player.cpp
+  RedBall.cpp
+  RigidBody2D.cpp
+  RigidBody3D.cpp
+  Generating Code...
+  Compiling...
+  shader.cpp
+  shit.cpp
+  SkyBox.cpp
+  PoolTable.cpp
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\PoolTable.cpp(35,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Sphere.cpp
+  SphereCollider.cpp
+C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\SphereCollider.cpp(7,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  StartScreen.cpp
+  WhiteCueBall.cpp
+  YellowBall.cpp
+  Generating Code...
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\x64\Debug\soil.pdb'; linking object as if no debug info
+  PhysGraphs.vcxproj -> C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe
