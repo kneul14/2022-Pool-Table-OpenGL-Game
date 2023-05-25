@@ -150,10 +150,10 @@ static std::vector<VertexWithAll> loadOBJ(const char* file_name)
 
 
 	//DEBUG ZONE TESTING PURPOSES
-	std::cout << "Nr of vertices: " << vertices.size() << "\n";
+	//std::cout << "Nr of vertices: " << vertices.size() << "\n";
 
 
 	//load success
-	std::cout << " obj file loaded!!!" << "\n";
+	//std::cout << " obj file loaded!!!" << "\n";
 	return vertices;
 }

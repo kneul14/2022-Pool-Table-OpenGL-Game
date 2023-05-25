@@ -4,4 +4,7 @@ C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursewo
 C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(127,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(782): warning C4305: '-=': truncation from 'double' to 'float'
 C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(782): warning C4305: '+=': truncation from 'double' to 'float'
+  Main.cpp
+  Player.cpp
+  Generating Code...
   PhysGraphs.vcxproj -> C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe

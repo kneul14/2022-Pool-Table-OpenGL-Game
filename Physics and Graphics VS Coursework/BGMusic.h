@@ -8,5 +8,5 @@
 
 class BGMusic
 {
+	int main();
 };
-

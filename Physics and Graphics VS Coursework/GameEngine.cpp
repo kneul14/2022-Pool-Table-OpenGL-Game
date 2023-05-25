@@ -103,7 +103,7 @@ std::vector<GameObject*> objects;  //change name later
 GameObject* cue;
 GameObject* poolTable;
 GameObject* GO;
-int startingScore;
+int startingScore = 0;
 int currentScore;
 static Skybox skybox;
 static Field field;
@@ -588,7 +588,7 @@ void GameEngine::DrawGame(void)
 		skybox.Draw(programId);
 
 		// Draw sphere
-#pragma region PoolBalls //Balls Drawn
+		#pragma region PoolBalls //Balls Drawn
 
 		for (int i = 0; i < objects.size(); ++i)
 		{
