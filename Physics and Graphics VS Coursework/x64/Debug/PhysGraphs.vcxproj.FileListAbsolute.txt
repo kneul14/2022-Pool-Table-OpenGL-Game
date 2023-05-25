@@ -2,3 +2,4 @@ D:\Education\University Y2\Graphics and Physics VS\1037152-PhysGraph-Assisngment
 D:\University\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe
 C:\University Coventry\10371572-PhysGraph-Assisgnment\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe
 C:\UniversityOrebro\Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe
+C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe

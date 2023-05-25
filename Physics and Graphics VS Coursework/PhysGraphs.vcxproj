@@ -146,6 +146,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AABBCollider.cpp" />
+    <ClCompile Include="BGMusic.cpp" />
     <ClCompile Include="BillBoards.cpp" />
     <ClCompile Include="BlackBall.cpp" />
     <ClCompile Include="BroadPhaseGrid.cpp" />
@@ -166,7 +167,6 @@
     <ClCompile Include="RigidBody2D.cpp" />
     <ClCompile Include="RigidBody3D.cpp" />
     <ClCompile Include="shader.cpp" />
-    <ClCompile Include="shit.cpp" />
     <ClCompile Include="SkyBox.cpp" />
     <ClCompile Include="PoolTable.cpp" />
     <ClCompile Include="Sphere.cpp" />
@@ -177,6 +177,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AABBCollider.h" />
+    <ClInclude Include="BGMusic.h" />
     <ClInclude Include="BillBoards.h" />
     <ClInclude Include="BlackBall.h" />
     <ClInclude Include="BroadPhaseGrid.h" />
@@ -198,7 +199,6 @@
     <ClInclude Include="RigidBody2D.h" />
     <ClInclude Include="RigidBody3D.h" />
     <ClInclude Include="shader.h" />
-    <ClInclude Include="shit.h" />
     <ClInclude Include="SkyBox.h" />
     <ClInclude Include="Sphere.h" />
     <ClInclude Include="SphereCollider.h" />

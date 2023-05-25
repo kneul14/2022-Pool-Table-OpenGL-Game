@@ -34,9 +34,6 @@
     <ClCompile Include="PoolTable.cpp">
       <Filter>C++ Files</Filter>
     </ClCompile>
-    <ClCompile Include="shit.cpp">
-      <Filter>C++ Files</Filter>
-    </ClCompile>
     <ClCompile Include="StartScreen.cpp">
       <Filter>C++ Files</Filter>
     </ClCompile>
@@ -88,6 +85,9 @@
     <ClCompile Include="BroadPhaseGrid.cpp">
       <Filter>C++ Files</Filter>
     </ClCompile>
+    <ClCompile Include="BGMusic.cpp">
+      <Filter>C++ Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shader.h">
@@ -124,9 +124,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PoolTable.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="shit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="StartScreen.h">
@@ -178,7 +175,10 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="BroadPhaseGrid.h">
-      <Filter>C++ Files</Filter>
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BGMusic.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

@@ -37,6 +37,7 @@
 #include "AABBCollider.h"
 #include "shader.h"
 #include "vertex.h"
+#include "BGMusic.h"
 #include <vector>
 #include <glm/gtx/string_cast.hpp>
 

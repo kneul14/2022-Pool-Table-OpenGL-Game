@@ -662,8 +662,8 @@ void GameEngine::InitEngine(int argc, char** argv, const char* windowTitle, int 
 	glutInitWindowPosition(350, 0);
 	glutCreateWindow("Katherine's PoolGame");
 
-	//glutDisplayFunc(DrawIntro);
-	glutDisplayFunc(DrawGame);
+	glutDisplayFunc(DrawIntro); //this was for the Graphics coursework
+	//glutDisplayFunc(DrawGame); //this was for the Phyics scene
 	glutReshapeFunc(ResizeWindow);
 	glutKeyboardFunc([](unsigned char key, int x, int y)
 		{
