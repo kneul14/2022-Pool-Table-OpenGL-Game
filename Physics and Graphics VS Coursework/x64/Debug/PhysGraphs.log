@@ -1,10 +1,9 @@
-﻿  GameEngine.cpp
-C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(17,71): warning C4091: 'static ': ignored on left of 'object' when no variable is declared
-C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(18,134): warning C4091: 'static ': ignored on left of 'buffer' when no variable is declared
-C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(127,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(782): warning C4305: '-=': truncation from 'double' to 'float'
-C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(782): warning C4305: '+=': truncation from 'double' to 'float'
-  Main.cpp
-  Player.cpp
+﻿  BGMusic.cpp
+  GameEngine.cpp
+C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(18,71): warning C4091: 'static ': ignored on left of 'object' when no variable is declared
+C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(19,134): warning C4091: 'static ': ignored on left of 'buffer' when no variable is declared
+C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(128,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(783): warning C4305: '-=': truncation from 'double' to 'float'
+C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\GameEngine.cpp(783): warning C4305: '+=': truncation from 'double' to 'float'
   Generating Code...
   PhysGraphs.vcxproj -> C:\UniversityOrebro\2022-Pool-Table-OpenGL-Game\Physics and Graphics VS Coursework\x64\Debug\PhysGraphs.exe

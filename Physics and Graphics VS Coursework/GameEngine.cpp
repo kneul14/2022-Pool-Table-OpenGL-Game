@@ -5,6 +5,7 @@ vector<CollisionData*> GameEngine::collsionData;
 int GameEngine::oldTimeSinceStart;
 int GameEngine::newTimeSinceStart;
 Camera GameEngine::camera; //access to camera object..
+BGMusic GameEngine::bgMusic; //access to camera object..
 GameObject GameEngine::GOCode;
 BroadPhaseGrid* GameEngine::broadPhaseGridCode;
 ForceGenerator GameEngine::forceGen;
@@ -663,7 +664,7 @@ void GameEngine::InitEngine(int argc, char** argv, const char* windowTitle, int 
 	glutCreateWindow("Katherine's PoolGame");
 
 	glutDisplayFunc(DrawIntro); //this was for the Graphics coursework
-	//glutDisplayFunc(DrawGame); //this was for the Phyics scene
+	//glutDisplayFunc(DrawGame); //this was for the Phyics coursework
 	glutReshapeFunc(ResizeWindow);
 	glutKeyboardFunc([](unsigned char key, int x, int y)
 		{
@@ -788,8 +789,9 @@ void GameEngine::InitEngine(int argc, char** argv, const char* windowTitle, int 
 
 	glm::mat4 viewMat = camera.WhichCamera(d); //should change Camera positions
 	camera.UpdateCamera();
+	bgMusic.main();
 	glewExperimental = GL_TRUE;
 	glewInit();
 
-	GameEngine::Setup();
+	GameEngine::Setup();	
 }

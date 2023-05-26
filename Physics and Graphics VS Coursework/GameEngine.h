@@ -66,6 +66,7 @@ private:
 
 public:
 	static Camera camera; //access to camera object..
+	static BGMusic bgMusic; //access to camera object..
 	static GameObject GOCode;
 	static BroadPhaseGrid* broadPhaseGridCode;
 	static ForceGenerator forceGen;

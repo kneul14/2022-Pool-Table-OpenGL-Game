@@ -5,8 +5,10 @@
 
 #pragma comment(lib, "winmm.lib")
 
+#define PATH ("C:\\UniversityOrebro\\2022-Pool-Table-OpenGL-Game\\Physics and Graphics VS Coursework\\Music")
 
 class BGMusic
 {
-	int main();
+	public:
+		int main();		
 };
